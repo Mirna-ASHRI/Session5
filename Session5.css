@@ -1,4 +1,4 @@
-.test{
+/* .test{
     width: 200px;
     height: 200px;
     background-color: #09c;
@@ -106,4 +106,67 @@
     text-align: center;
     display: inline-block;
     transition: 2s 1.7s;
+} */
+
+/* Task 2 */
+.main {
+    background-color: blue;
+    position: relative;
+    width: 98%;
+    height: 700px;
+    margin: auto;
+}
+.circle1 {
+    background-color: white;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 25%;
+    left: 35%;
+    border-radius: 50%;
+}
+.circle2 {
+    background-color: white;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 25%;
+    left: 52%;
+    border-radius: 50%;
+}
+.circle3 {
+    background-color: white;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 51%;
+    left: 35%;
+    border-radius: 50%;
+}
+.circle4 {
+    background-color: white;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 51%;
+    left: 52%;
+    border-radius: 50%;
+}
+.rhombus {
+    background-color:blue;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 30%;
+    left: 40%;
+    transform: rotate(45deg);
+}
+.circlemiddle {
+    background-color: yellow;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 38%;
+    left: 43%;
+    border-radius: 50%;
 }
