@@ -1,3 +1,5 @@
+/* THE SESSION */
+
 .test{
     width: 200px;
     height: 200px;
@@ -13,6 +15,9 @@
     rotate: 360deg;
     border-radius: 50%;
 }
+
+/* TASK1 */
+
 .container:hover .big{
     background-color: green;
 }
