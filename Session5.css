@@ -1,0 +1,109 @@
+.test{
+    width: 200px;
+    height: 200px;
+    background-color: #09c;
+    transition-duration: 5s;
+    transition-delay: 0s;
+    transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.test:hover{
+    width: 400px;
+    height: 400px;
+    background-color: tomato;
+    rotate: 360deg;
+    border-radius: 50%;
+}
+.container:hover .big{
+    background-color: green;
+}
+.square1{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    border: 2px black solid;
+    text-align: center;
+    display: inline-block;
+    font-display: middle;
+    transition: 2s 0s;
+}
+.square2{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    border: 2px black solid;
+    text-align: center;
+    display: inline-block;
+    transition: 2s 0.1s;
+}
+.square3{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    border: 2px black solid;
+    text-align: center;
+    display: inline-block;
+    transition: 2s 0.3s;
+}
+.square4{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    border: 2px black solid;
+    text-align: center;
+    display: inline-block;
+    transition: 2s 0.5s;
+}
+.square5{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    border: 2px black solid;
+    text-align: center;
+    display: inline-block;
+    transition: 2s 0.7s;
+}
+.square6{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    border: 2px black solid;
+    text-align: center;
+    display: inline-block;
+    transition: 2s 0.9s;
+}
+.square7{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    border: 2px black solid;
+    text-align: center;
+    display: inline-block;
+    transition: 2s 1.1s;
+}
+.square8{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    border: 2px black solid;
+    text-align: center;
+    display: inline-block;
+    transition: 2s 1.3s;
+}
+.square9{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    border: 2px black solid;
+    text-align: center;
+    display: inline-block;
+    transition: 2s 1.5s;
+}
+.square10{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    border: 2px black solid;
+    text-align: center;
+    display: inline-block;
+    transition: 2s 1.7s;
+}
